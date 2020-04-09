@@ -6,6 +6,25 @@ body {
     background-color: lightslategrey;
 }
 
-.container {
+.card-deck {
     padding: 3%;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: lightslategrey;
+    border: black;
+    border-width: thick;
+    font: black;
+    
+}
+
+.card {
+    background-color: lightslategrey;
+    border: black;
+    border-width: thick;
+}
+
+.card-body {
+    border: thick;
+    border-width: thick;
+    font: black;
 }
