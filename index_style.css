@@ -40,6 +40,8 @@ footer {
 .js {width: 65%; background-color: #f44336;} 
 .php {width: 60%; background-color:yellow;} 
 
-#text {
+.col-md-8 {
     padding-top: 40px;
+    overflow: visible;
+    margin-right: 0px;
 }
