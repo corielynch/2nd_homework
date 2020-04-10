@@ -2,6 +2,10 @@ body {
     background-color: lightslategray;
 }
 
+a:hover {
+    background-color: #FF00FF;
+  }
+
 .form-group {
     background-color: lightslategrey;
 }

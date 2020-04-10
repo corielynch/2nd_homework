@@ -2,6 +2,44 @@ body {
     background-color: lightslategray;
 }
 
+a:hover {
+    background-color: #FF00FF;
+  }
+
 .form-group {
     background-color: lightslategrey;
+}
+
+footer {
+    text-align: center;
+    position: sticky;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+* {box-sizing:border-box}
+
+/* Container for skill bars */
+.container {
+  width: 100%; 
+  padding: 20px;
+  
+}
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.html {width: 90%; background-color: #4CAF50;}
+.css {width: 80%; background-color: #2196F3;} 
+.js {width: 65%; background-color: #f44336;} 
+.php {width: 60%; background-color:yellow;} 
+
+#text {
+    padding-top: 40px;
 }

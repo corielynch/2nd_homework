@@ -2,6 +2,19 @@ body {
     background-color: lightslategray;
 }
 
+a:hover {
+    background-color: #FF00FF;
+  }
+
 .form-group {
     background-color: lightslategrey;
+}
+
+footer {
+    text-align: center;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
 }
