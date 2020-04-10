@@ -33,6 +33,10 @@ a:hover {
     font: black;
 }
 
+#card-2 {
+    margin-top: 115px;
+}
+
 footer {
     text-align: center;
     position: sticky;
