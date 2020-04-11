@@ -10,6 +10,8 @@ a:hover {
     background-color: lightslategrey;
 }
 
+/* Cards content */
+
 .card-deck {
     padding: 3%;
     margin-left: 25px;
@@ -36,6 +38,8 @@ a:hover {
 #card-2 {
     margin-top: 115px;
 }
+
+/* Footer */
 
 footer {
     text-align: center;
