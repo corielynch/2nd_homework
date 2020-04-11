@@ -21,6 +21,10 @@ footer {
 
 * {box-sizing:border-box}
 
+#text {
+  font-size: 20px;
+}
+
 /* Container for skill bars */
 .container {
   width: 100%; 
