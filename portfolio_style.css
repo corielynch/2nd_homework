@@ -27,6 +27,7 @@ a:hover {
     background-color: lightslategrey;
     border: black;
     border-width: thick;
+    padding: 25px;
 }
 
 .card-body {

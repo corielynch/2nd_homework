@@ -8,8 +8,8 @@ I've included 3 links in my nav bar linking to other parts of the website along 
 
 I have attached some screenshots of the 3 pages at varying sizes for responsiveness.
 
-Contact-md.png Contact page, size medium
-Portfolio-lg.png Portfolio page, size large
-Portfolio-sm.png Portfolio page, size small
-index-lg.png Index page, size large
-index-sm.png Index page, size small
+![Contact page, size medium](./images/contact-md.png)
+![Portfolio page, size large](./images/portfolio-lg.png)
+![Portfolio page, size small](./images/portfolio-sm.png)
+![Index page, size large](./images/index-lg.png)
+![Index page, size small](./images/index-sm.png)
